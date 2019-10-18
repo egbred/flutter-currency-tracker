@@ -1,16 +1,6 @@
 # currency_app
 
-A new Flutter application that contains the currency graphs
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A new Flutter app that request data from CBR and present it to user
+It can: 
+1) show currency for every date(if data exists in CBR)
+2) build simple graph on requested currency and date interval
