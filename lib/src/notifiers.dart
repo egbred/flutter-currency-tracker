@@ -30,6 +30,7 @@ class ListModel with ChangeNotifier {
     _selectedDate = date;
     _loadCurrencyList();
   }
+
 }
 
 class ChartModel with ChangeNotifier {

@@ -60,4 +60,5 @@ List<Currency> parseCurrencyGraph(String xmlString, bool isBig) {
     }
   });
   return currencyDataList;
+
 }
