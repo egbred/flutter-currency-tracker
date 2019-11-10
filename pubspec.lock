@@ -95,16 +95,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.16.0"
-<<<<<<< HEAD
-=======
-  loading:
-    dependency: "direct main"
-    description:
-      name: loading
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "1.0.1"
->>>>>>> e2aaba27176aca35e0c389d10d37bbea8f125111
   logging:
     dependency: transitive
     description:
@@ -147,7 +137,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.4.0"
-<<<<<<< HEAD
   provider:
     dependency: "direct main"
     description:
@@ -155,8 +144,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "3.1.0+1"
-=======
->>>>>>> e2aaba27176aca35e0c389d10d37bbea8f125111
   quiver:
     dependency: transitive
     description:
@@ -164,7 +151,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.0.5"
-<<<<<<< HEAD
   rxdart:
     dependency: "direct main"
     description:
@@ -172,8 +158,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.22.5"
-=======
->>>>>>> e2aaba27176aca35e0c389d10d37bbea8f125111
   sky_engine:
     dependency: transitive
     description: flutter
